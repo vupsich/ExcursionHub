@@ -1,1 +1,1 @@
-<h1 align="center">ExcursionHub: АС для организации и проведения экскурсий</h1>
+<h2 align="center">ExcursionHub: АС для организации и проведения экскурсий</h2>
